@@ -3,7 +3,7 @@
 **`IT-Student at the Technical University of Munich`**
 
 
-I am an IT student with a focus on software engineering and full-stack software development. I am interested in contributing to the open source community and collaborations. Looking to create great projects with great developer. 
+I am an IT student with a focus on software engineering and full-stack software development. I am interested in contributing to the open source community and collaborations. Looking to create great projects with great developers. 
 
 
 ### 🧰 Languages and Tools
