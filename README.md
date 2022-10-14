@@ -3,6 +3,9 @@
 **`IT-Student at the Technical University of Munich`**
 
 
+I am an IT student with a focus on software engineering and full-stack software development.
+
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
