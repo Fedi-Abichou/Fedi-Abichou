@@ -1,6 +1,8 @@
 # Fedi Abichou
 
-**`Information Student at the Technical University of Munich`**
+**Challenge 2025: `Everyday coding!`**
+
+**Information Student at the Technical University of Munich**
 
 
 I am an IT student with a focus on software engineering and full-stack software development. I am interested in contributing to the open source community and collaborations. Looking to create great projects with great developers. 
